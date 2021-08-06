@@ -12,7 +12,7 @@ namespace UserRegistrationUsingLambda
         {
             string[] Regex_Array = new string[6];
 
-            //first name
+            //first name 
             Regex_Array[0] = "^[A-Z][A-Za-z]{2,}$";
             //last name
             Regex_Array[1] = "^[A-Z][A-Za-z]{2,}$";
